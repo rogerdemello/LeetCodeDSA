@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
