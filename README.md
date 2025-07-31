@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0014-longest-common-prefix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0014-longest-common-prefix) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
