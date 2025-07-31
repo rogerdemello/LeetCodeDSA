@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
