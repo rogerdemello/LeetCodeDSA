@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
