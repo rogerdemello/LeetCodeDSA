@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## String
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
