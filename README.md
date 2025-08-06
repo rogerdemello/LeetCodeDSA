@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0050-powx-n) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
