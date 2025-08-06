@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0050-powx-n) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0043-multiply-strings) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
