@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Linked List
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
