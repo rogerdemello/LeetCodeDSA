@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0066-plus-one) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rogerdemello/LeetCodeDSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
