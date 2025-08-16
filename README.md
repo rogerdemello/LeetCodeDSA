@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0058-length-of-last-word) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2361-calculate-digit-sum-of-a-string) |
