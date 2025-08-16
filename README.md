@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/rogerdemello/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/rogerdemello/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rogerdemello/LeetCodeDSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
